@@ -60,6 +60,25 @@ API funcionando en vivo:
 
 Sube todos los archivos al servidor.
 
+## Hosting gratuito
+
+Este proyecto puede alojarse fácilmente en cualquier servidor compatible con PHP 7.4 o superior.
+
+Si deseas una opción gratuita, puedes utilizar **InfinityFree**, que ofrece hosting PHP sin costo.
+
+Sitio web:
+
+**https://www.infinityfree.com/**
+
+El proyecto de demostración público está alojado en InfinityFree y puedes probarlo aquí:
+
+**https://cubaexchangeratescraper.free.nf/**
+
+Solo debes subir los archivos mediante el Administrador de Archivos o por FTP y el scraper estará listo para funcionar.
+
+**Nota:** Para un mejor rendimiento y mayor estabilidad en producción, se recomienda utilizar un hosting de pago o un VPS.
+
+
 No necesitas instalar Composer.
 
 No necesitas ninguna librería.
